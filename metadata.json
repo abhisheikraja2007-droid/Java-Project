@@ -1,0 +1,6 @@
+{
+  "name": "Criminal Management System",
+  "description": "A comprehensive Criminal Management System (CMS) featuring real-time case tracking, evidence inventory, suspect profile management, incident reporting, user permissions, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
